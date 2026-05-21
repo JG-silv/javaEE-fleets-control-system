@@ -1,6 +1,7 @@
 .metadata/
 Projeto_Final_Frota_Logistica/.metadata/
 Servers/
+RemoteSystemsTempFiles/
 
 **/bin/
 **/build/
